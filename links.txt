@@ -1,4 +1,4 @@
-https://rhartley09.github.io/leaflet-challenge/Leaflet-Step-2/
+https://rhartley09.github.io/leaflet-challenge/Leaflet-Step-1/
 
 https://rhartley09.github.io/Plotly-Challenge/StarterCode/
 
