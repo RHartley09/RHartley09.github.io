@@ -1,6 +1,7 @@
 p {
     text-align: center;
     font-size: 20px;
+    color: rgb(217, 236, 243);
   
   }
   
@@ -25,13 +26,18 @@ p {
     top:50%; 
     left:50%;
   } */
-  
+
   body {
     background-color: rgb(35, 46, 46);
-    background-image: url("/photos_2017_7_4_fst_water-texture-move.jpg");
+    background-image: url("/Misc/photos_2017_7_4_fst_water-texture-move.jpg");
     background-size: cover;
   }
   
+  /* .text-center {
+    background-image: url("/Misc/photos_2017_7_4_fst_water-texture-move.jpg");
+    background-size: cover;
+  } */
+
   /* article { */
     /* background-color: cadetblue; */
   /* } */
